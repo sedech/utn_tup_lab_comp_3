@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/utn_tup_lab_comp_3/static/css/main.0f71a411.css",
-    "main.js": "/utn_tup_lab_comp_3/static/js/main.402a801d.js",
+    "main.js": "/utn_tup_lab_comp_3/static/js/main.8b00733b.js",
     "index.html": "/utn_tup_lab_comp_3/index.html",
     "main.0f71a411.css.map": "/utn_tup_lab_comp_3/static/css/main.0f71a411.css.map",
-    "main.402a801d.js.map": "/utn_tup_lab_comp_3/static/js/main.402a801d.js.map"
+    "main.8b00733b.js.map": "/utn_tup_lab_comp_3/static/js/main.8b00733b.js.map"
   },
   "entrypoints": [
     "static/css/main.0f71a411.css",
-    "static/js/main.402a801d.js"
+    "static/js/main.8b00733b.js"
   ]
 }
